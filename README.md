@@ -13,7 +13,9 @@
 
 ## 📊 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjex&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjex&layout=compact&count_private=true&include_all_commits=true)
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mrjex)
 
 
 
@@ -365,7 +367,7 @@ It's worth noting that in the development procedures of most services I used **C
 - [Web Development](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/1.%20Web%20Development?ref_type=heads)
 - [Fundamentals of Software Architecture, Assignment 4](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/2.%20Fundamentals%20of%20Software%20Architecture/Assignment%204%20-%20Architectural%20Styles%20and%20their%20Applications?ref_type=heads)
 - [Sagemaker AWS Prediction](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/8.%20Sagemaker%20AWS%20Prediction?ref_type=heads)
-- [Software Quality & Testing](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/6.%20Software%20Quality%20%26%20Testing?ref_type=heads)
+- [Software Quality & Testing](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/6.%20Software%20Quality%20&%20Testing?ref_type=heads)
 - [Global City Streaming](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/6.%20City%20Streaming%20Project?ref_type=heads)
 - [AWS Bedrock Generative AI](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/11.%20AWS%20Bedrock%20Generative%20AI?ref_type=heads)
 - [Distributed Systems, Patient API](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/2.%20apis/patient-api?ref_type=heads)
@@ -448,7 +450,7 @@ Related experiences:
 
 #### Software Design Principles
 
-Software Design is about planning the structure of the software before actual coding begins. My related experiences include:
+Software Design is about planning the structure of the software solution before actual coding begins. My related experiences include:
 
 - [Software Analysis & Construction](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/8.%20Software%20Analysis%20Construction?ref_type=heads)
 - [Systems Development](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/7.%20Systems%20Development?ref_type=heads)
