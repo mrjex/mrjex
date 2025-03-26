@@ -6,19 +6,29 @@
 *A Swedish coder with **6+** years of experience* <img align="left" alt="Sweden" width="30px" style="padding-right:10px;" src="readme-material/sweden-icon.svg" />
 
 
-<img align="left" alt="GU-logo" width="90px" style="padding-right:10px;" src="readme-material/gu-logo.jpg" /> <img align="left" alt="Chalmers-logo" width="120px" style="padding-right:10px;" src="readme-material/chalmers-logo.png" />
+<img align="left" alt="Chalmers-logo" width="120px" style="padding-right:10px;" src="readme-material/chalmers-logo.png" />
 
 
-All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems at large scales. I'm a full-stack developer that specializes in Software Engineering & Management and has been coding ever since 2019. Below, all of my experiences are briefly summarized in different subsections. To view my coding journey and to get to know me, please look at `about-me.md`
+
+
+## 📊 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+
+
+All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems at large scales. I'm a full-stack developer that specializes in Software Engineering & Management and has been coding ever since 2019. Below, all of my experiences are briefly summarized in different subsections.
 
 
 ## Table of Contents
 
 - [Joel Mattsson](#joel-mattsson)
+  - [📊 Top Languages](#-top-languages)
   - [Table of Contents](#table-of-contents)
-  - [Languages \& Tools](#languages--tools)
+  - [🛠️ Languages \& Tools](#️-languages--tools)
 - [‎](#)
   - [General Experiences](#general-experiences)
+  - [📂 Project Highlights](#-project-highlights)
     - [Data Structures](#data-structures)
     - [Programming Languages](#programming-languages)
     - [Amazon Web Services](#amazon-web-services)
@@ -40,7 +50,7 @@ All coding projects are built from the ground up, from planning and designing al
 
 
 
-## Languages & Tools
+## 🛠️ Languages & Tools
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
   <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
@@ -106,6 +116,11 @@ All coding projects are built from the ground up, from planning and designing al
 ## General Experiences
 
 In a very broad and brief way, my experience gained throughout the years are summed up in a few categories to give you a quick overall view to understand my abilities. All of the corresponding projects are linked to the related directory to showcase the functionality in the particular knowledge domain presented in this read-me file.
+
+
+## 📂 Project Highlights
+
+TODO
 
 
 ### Data Structures
