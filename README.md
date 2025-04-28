@@ -19,9 +19,7 @@ All coding projects are built from the ground up, from planning and designing al
   - [🛠️ Languages \& Tools](#️-languages--tools)
 - [‎](#)
   - [General Experiences](#general-experiences)
-  - [📂 Project Highlights](#-project-highlights)
-  - [🚀 Project Highlights](#-project-highlights-1)
-    - [Data Structures](#data-structures)
+  - [🚀 Project Highlights](#-project-highlights)
     - [Programming Languages](#programming-languages)
     - [Amazon Web Services](#amazon-web-services)
     - [Databases](#databases)
@@ -98,18 +96,17 @@ All coding projects are built from the ground up, from planning and designing al
 In a very broad and brief way, my experience gained throughout the years are summed up in a few categories to give you a quick overall view to understand my abilities. All of the corresponding projects are linked to the related directory to showcase the functionality in the particular knowledge domain presented in this read-me file.
 
 
-## 📂 Project Highlights
-
 
 ## 🚀 Project Highlights
 
-- [**Global City Streaming**](https://github.com/username/MyCoolApp)  
-  Brief description here  
-  _Tech stack: Text
+- [**Global City Streaming**](https://github.com/mrjex/Global-City-Streaming)  
+  A web-based platform for real-time streaming and visualization of global city data. Users can explore live feeds, analytics, and interactive maps from cities around the world, enabling insights into urban trends and events
+  _Tech stack: Kafka, Flink, React, Nextjs, PostgreSQL, FastAPI
 
-- [**Dentanoid**](https://github.com/username/DataWizard)  
-  Brief description here  
-  _Tech stack: Text
+
+- [**Dentanoid**](https://github.com/Dentanoid) 
+  A modern dental appointment management platform designed for clinics and patients. The system streamlines the process of booking, managing, and tracking dental appointments through a microservices architecture
+  _Tech stack: Vuejs, Go, Java, Docker, Javascript
 
 
 - [**WioPlay**](https://github.com/username/portfolio)  
@@ -118,17 +115,10 @@ In a very broad and brief way, my experience gained throughout the years are sum
 
 
 
-### Data Structures
-
-During all of my invested time in online sites such as *AlgoExpert* and *Hackerrank*, I cultivated a theoretical and practical familiarity with data structures in [Problem Solving](https://gitlab.com/jex-projects/mrjex/-/tree/main/problem-solving?ref_type=heads). Later on I attended [Data Structures & Algorithms](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/5.%20Data%20Structures%20&%20Algorithms?ref_type=heads) and became more knowledgeable in the field. Eventually, I identified the opportunity of using a priority que combined with a max heap in [Distributed Systems, Clinic Service]() to reduce the time complexity of the operations in the microservice architecture. Keeping all of this in mind, I made the following self-assessment of my proficiencies:
-
-![datastructures-assessment](readme-material/radar-chart-datastructures.PNG)
-
 ### Programming Languages
 
 I made the following evalaution of my programming language skills due to my track record demonstrated below:
 
-![programming-languages-assessment](readme-material/radar-chart-programming-languages.PNG)
 
 - **Python** *during summer 2022 and 2024*
 
@@ -138,7 +128,7 @@ I made the following evalaution of my programming language skills due to my trac
     - [Product Demand Prediction](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/3.%20Product-Demand-Prediction?ref_type=heads)
     - [Real Estate Price Prediction](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/4.%20Real-Estate-Price-Prediction?ref_type=heads)
     - [Real-Time Data Capture Streaming](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/5.%20Realtime%20Change%20Data%20Capture%20Streaming?ref_type=heads)
-    - [Global City Streaming](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/6.%20City%20Streaming%20Project?ref_type=heads)
+    - [Global City Streaming](https://github.com/mrjex/Global-City-Streaming)
     - [Sagemaker AWS Prediction](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/8.%20Sagemaker%20AWS%20Prediction?ref_type=heads)
     - [AWS BigData Project](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/10.%20AWS%20BigData%20Project?ref_type=heads)
     - [AWS Bedrock Generative AI](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/11.%20AWS%20Bedrock%20Generative%20AI?ref_type=heads)
@@ -164,7 +154,7 @@ I made the following evalaution of my programming language skills due to my trac
     - [Systems Development, AndroidApp & NoteParser](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/7.%20Systems%20Development?ref_type=heads)
     - [Software Analysis Construction, Assignment 3 & 4](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/8.%20Software%20Analysis%20Construction?ref_type=heads)
     - [Fundamentals of Software Architecture, Assignment 4: Microservices](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/2.%20Fundamentals%20of%20Software%20Architecture/Assignment%204%20-%20Architectural%20Styles%20and%20their%20Applications/Code-Submission/microservices?ref_type=heads)
-    - [Global City Streaming](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/6.%20City%20Streaming%20Project?ref_type=heads)
+    - [Global City Streaming](https://github.com/mrjex/Global-City-Streaming)
     - [Distributed Systems, Clinic Service](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/3.%20services/clinic-service?ref_type=heads)
     - [Software Quality & Testing, Assignment 2 - Unit & Structural Testing](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/6.%20Software%20Quality%20%26%20Testing/Assignment%202%20-%20Unit%20and%20Structural%20Testing?ref_type=heads)
 
@@ -201,7 +191,7 @@ I made the following evalaution of my programming language skills due to my trac
     - [Cyber Physical Systems and Sytems of Systems](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/7.%20Cyber%20Physical%20Systems%20and%20Sytems%20of%20Systems/project/src?ref_type=heads)
     - [Project Branno](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/1.%20Project%20Branno?ref_type=heads)
     - [Relational Analysis & Visualization](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/2.%20Relational-Analysis-And-Visualization?ref_type=heads)
-    - [Global City Streaming](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/6.%20City%20Streaming%20Project?ref_type=heads)
+    - [Global City Streaming](https://github.com/mrjex/Global-City-Streaming)
     - [Kubernetes Learning](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/7.%20Kubernetes%20Learning?ref_type=heads)
     - [Sagemaker AWS Prediction](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/8.%20Sagemaker%20AWS%20Prediction?ref_type=heads)
     - [AWS BigData Project](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/10.%20AWS%20BigData%20Project?ref_type=heads)
@@ -247,8 +237,6 @@ In the summer of 2024 I integrated AWS in some of my projects, and I ended up wo
     - [AWS Sagemaker Prediction](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/8.%20Sagemaker%20AWS%20Prediction?ref_type=heads)
     - [AWS Bedrock Generative AI](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/11.%20AWS%20Bedrock%20Generative%20AI?ref_type=heads)
 
-It's worth noting that in the development procedures of most services I used **CloudWatch** to monitor the logs and solve errors I encountered along the way. **Cloud9** and **CodeCommit** was also used to simulate an environment similar to a verison control system like *Git*.
-
 
 ### Databases
 
@@ -259,7 +247,7 @@ It's worth noting that in the development procedures of most services I used **C
 
 - **PostgresSQL:**
     - [Real-Time Data Capture Streaming](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/5.%20Realtime%20Change%20Data%20Capture%20Streaming?ref_type=heads)
-    - [Global City Streaming](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/6.%20City%20Streaming%20Project?ref_type=heads)
+    - [Global City Streaming](https://github.com/mrjex/Global-City-Streaming)
 
 - **MySQL:**
     - [Tableau Visualization](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/9.%20Tableau-Visualization?ref_type=heads)
@@ -270,7 +258,7 @@ It's worth noting that in the development procedures of most services I used **C
 
 - **Local JSON files:**
     - [Team Programming & Management](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/3.%20Team%20Programming%20&%20Management?ref_type=heads)
-    - [Global City Streaming, Debug API, Database](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/6.%20City%20Streaming%20Project/debug-api/apis/database?ref_type=heads)
+    - [Global City Streaming, Debug API, Database](https://github.com/mrjex/Global-City-Streaming)
 
 
 
@@ -294,9 +282,9 @@ It's worth noting that in the development procedures of most services I used **C
 - [Fundamentals of Software Architecture, Assignment 4](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/2.%20Fundamentals%20of%20Software%20Architecture/Assignment%204%20-%20Architectural%20Styles%20and%20their%20Applications?ref_type=heads)
 - [Sagemaker AWS Prediction](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/8.%20Sagemaker%20AWS%20Prediction?ref_type=heads)
 - [Software Quality & Testing](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/6.%20Software%20Quality%20&%20Testing?ref_type=heads)
-- [Global City Streaming](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/6.%20City%20Streaming%20Project?ref_type=heads)
+- [Global City Streaming](https://github.com/mrjex/Global-City-Streaming)
 - [AWS Bedrock Generative AI](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/11.%20AWS%20Bedrock%20Generative%20AI?ref_type=heads)
 - [Distributed Systems, Patient API](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/2.%20apis/patient-api?ref_type=heads)
 - [Distributed Systems, Dentist API](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/2.%20apis/dentist-api?ref_type=heads)
 - [Systems Development](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/7.%20Systems%20Development?ref_type=heads)
-[Real Estate Price Prediction](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/4.%20Real-Estate-Price-Prediction?ref_type=heads)
+- [Real Estate Price Prediction](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/4.%20Real-Estate-Price-Prediction?ref_type=heads)
