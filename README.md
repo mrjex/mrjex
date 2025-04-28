@@ -5,11 +5,15 @@
 
 *A Swedish coder with **6+** years of experience* <img align="left" alt="Sweden" width="30px" style="padding-right:10px;" src="readme-material/sweden-icon.svg" />
 
+<br clear="all"/>
 
-<img align="left" alt="Chalmers-logo" width="70px" style="padding-right:10px;" src="readme-material/chalmers-logo.png" />
+<img align="left" alt="Chalmers-logo" width="80px" style="padding-right:10px;" src="readme-material/chalmers-logo.png" />
 
 
 All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems at large scales. I'm a full-stack developer that specializes in Software Engineering & Management and has been coding since 2019.
+
+
+> I enjoy turning ideas into real-world solutions, taking projects from initial concept to finished product through careful planning and creative problem-solving. As a full-stack developer focused on Software Engineering & Management, I’ve been passionate about coding and building meaningful things since 2019.
 
 
 ## Table of Contents
