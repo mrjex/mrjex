@@ -19,6 +19,7 @@ All coding projects are built from the ground up, from planning and designing al
   - [🛠️ Languages \& Tools](#️-languages--tools)
 - [‎](#)
   - [🚀 Project Highlights](#-project-highlights)
+  - [📚 More Detailed Portfolios](#-more-detailed-portfolios)
 
 
 
@@ -99,3 +100,10 @@ All coding projects are built from the ground up, from planning and designing al
 - [**WioPlay**](https://github.com/Indomet/WioPlay)  
   WioPlay is an interactive fitness and music system that motivates users to burn calories by combining a Wio Terminal device, an Android app, and a NoteParser server. The system streams music, tracks workouts, and rewards users with new songs as they exercise, using real-time motion detection and MQTT-based communication between components.
   _Tech stack:_ Android SDK, Gradle, C++, Arduino, Maven
+
+
+## 📚 More Detailed Portfolios
+
+- [Artificial Intelligence & Machine Learning](./README-AI-ML.md)
+- [Amazon Web Services Projects](./README-AWS.md)
+- [Programming Languages Portfolio](./README-Programming-Languages.md)
