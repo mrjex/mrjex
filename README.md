@@ -33,6 +33,7 @@ All coding projects are built from the ground up, from planning and designing al
 ## 🛠️ Languages & Tools
 
 ### Programming Languages
+
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -44,6 +45,7 @@ All coding projects are built from the ground up, from planning and designing al
 </div>
 
 ### Web & Scripting
+
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
   <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
   <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
@@ -52,6 +54,7 @@ All coding projects are built from the ground up, from planning and designing al
 </div>
 
 ### Tools & Platforms
+
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
   <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
@@ -61,6 +64,7 @@ All coding projects are built from the ground up, from planning and designing al
 </div>
 
 ### Cloud & Data
+
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
   <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" />
@@ -70,6 +74,7 @@ All coding projects are built from the ground up, from planning and designing al
 </div>
 
 ### Data Science & ML
+
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
   <img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
   <img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
@@ -82,6 +87,7 @@ All coding projects are built from the ground up, from planning and designing al
 </div>
 
 ### Big Data & Streaming
+
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
   <img align="left" alt="Hadoop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" />
   <img align="left" alt="Spark" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
@@ -89,6 +95,7 @@ All coding projects are built from the ground up, from planning and designing al
 </div>
 
 ### Design & Media
+
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
   <img align="left" alt="Premiere Pro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
   <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
