@@ -6,10 +6,10 @@
 *A Swedish coder with **6+** years of experience* <img align="left" alt="Sweden" width="30px" style="padding-right:10px;" src="readme-material/sweden-icon.svg" />
 
 
-<img align="left" alt="Chalmers-logo" width="120px" style="padding-right:10px;" src="readme-material/chalmers-logo.png" />
+<img align="left" alt="Chalmers-logo" width="100px" style="padding-right:10px;" src="readme-material/chalmers-logo.png" />
 
 
-All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems at large scales. I'm a full-stack developer that specializes in Software Engineering & Management and has been coding ever since 2019.
+All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems at large scales. I'm a full-stack developer that specializes in Software Engineering & Management and has been coding since 2019.
 
 
 ## Table of Contents
@@ -43,6 +43,7 @@ All coding projects are built from the ground up, from planning and designing al
   <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
 </div>
+<br clear="all"/>
 
 ### Web & Scripting
 
@@ -52,6 +53,7 @@ All coding projects are built from the ground up, from planning and designing al
   <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
   <img align="left" alt="Vuejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 </div>
+<br clear="all"/>
 
 ### Tools & Platforms
 
@@ -62,6 +64,7 @@ All coding projects are built from the ground up, from planning and designing al
   <img align="left" alt="Maven" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
   <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 </div>
+<br clear="all"/>
 
 ### Cloud & Data
 
@@ -72,6 +75,7 @@ All coding projects are built from the ground up, from planning and designing al
   <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
   <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 </div>
+<br clear="all"/>
 
 ### Data Science & ML
 
@@ -85,6 +89,7 @@ All coding projects are built from the ground up, from planning and designing al
   <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
   <img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" />
 </div>
+<br clear="all"/>
 
 ### Big Data & Streaming
 
@@ -93,6 +98,7 @@ All coding projects are built from the ground up, from planning and designing al
   <img align="left" alt="Spark" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
   <img align="left" alt="Kafka" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" />
 </div>
+<br clear="all"/>
 
 ### Design & Media
 
@@ -100,6 +106,7 @@ All coding projects are built from the ground up, from planning and designing al
   <img align="left" alt="Premiere Pro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
   <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 </div>
+<br clear="all"/>
 
 
 
