@@ -9,23 +9,12 @@
 <img align="left" alt="Chalmers-logo" width="120px" style="padding-right:10px;" src="readme-material/chalmers-logo.png" />
 
 
-
-
-## 📊 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjex&layout=compact&count_private=true&include_all_commits=true)
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mrjex)
-
-
-
 All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems at large scales. I'm a full-stack developer that specializes in Software Engineering & Management and has been coding ever since 2019. Below, all of my experiences are briefly summarized in different subsections.
 
 
 ## Table of Contents
 
 - [Joel Mattsson](#joel-mattsson)
-  - [📊 Top Languages](#-top-languages)
   - [Table of Contents](#table-of-contents)
   - [🛠️ Languages \& Tools](#️-languages--tools)
 - [‎](#)
@@ -42,13 +31,10 @@ All coding projects are built from the ground up, from planning and designing al
     - [Agile Development](#agile-development)
     - [APIs](#apis)
     - [Documentation](#documentation)
-    - [IDEs](#ides)
-  - [Other Experiences](#other-experiences)
     - [Other Programming Concepts Covered](#other-programming-concepts-covered)
       - [Object Oriented Programming](#object-oriented-programming)
       - [Software Design Principles](#software-design-principles)
       - [Software Testing and Quality Assurance](#software-testing-and-quality-assurance)
-      - [Software Development Lifecycles](#software-development-lifecycles)
 
 
 
@@ -388,40 +374,6 @@ It's worth noting that in the development procedures of most services I used **C
 
 
 
-### IDEs
-
-Below I list many of the IDEs I've been using since my coding journey started in 2019:
-
-- *Google Cloud Platform's shell console & Google Platform's Cloud Shell Editor*
-
-- *OnlineGdb.com (online C compiler), DataGrip & PyCharm*
-
-- *Cloud9 AWS IDE & AWS Management Console Shell*
-
-- *IntelliJ, VSCode & Visual Studio 2019 Community*
-
-- *GitLab File Editor & Github File Editor*
-
-- *Snowflake, Replit, Jupyter Lab*
-
-
-
-## Other Experiences
-
-- Worked as a *Software backend architecture engineer for the startup enterprise AktivFramtid* **(2025)**
-
-
-- Was one of the *Embassadors for University of Gothenburg*. In particular the company that hosted an event in Italy where I presented my University to other students is *EUTOPIA*, which has an [Instagram](https://www.instagram.com/EutopiaUni/) account and a [Website](https://eutopia-university.eu/) **(2024-2025)**
-
-
-<img src="readme-material/eutopia-event.PNG" alt="Eutopia Event Flyer" width="500" style="padding: 20px;" />
-
-- For more information about this event, navigate to the [Eutopia Collaboration](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-3/1.%20Exchange%20Studies%20Venice/eutopia-presentation?ref_type=heads) directory
-
-
-- Worked at *Svensk Direkt Reklam (SDR)* **(2017-2018)**
-
-
 ### Other Programming Concepts Covered
 
 These general software engineering concepts provide a comprehensive foundation for building, maintaining, and delivering high-quality software. They encompass a range of practices from planning, designing, and coding to testing, deploying, and maintaining applications effectively. Mastering these concepts is essential for producing reliable, scalable, and user-friendly software solutions
@@ -429,20 +381,8 @@ These general software engineering concepts provide a comprehensive foundation f
 
 #### Object Oriented Programming
 
-OOP is a paradigm that organizes code around objects, which are instances of classes. Classes define the blueprint for creating objects, specifying attributes (properties) and methods (behaviors). Key principles of OOP include:
-- **Encapsulation:** Bundling data and methods together to restrict direct access to some of an object's components.
-- **Abstraction:** Hiding complex implementation details to focus on simpler high-level interactions.
-- **Inheritance:** Allowing new classes to inherit properties and methods from existing classes.
-- **Polymorphism:** Enabling functions or methods to work in different ways based on input or context.
+OOP is a paradigm that organizes code around objects, which are instances of classes. My related experiences include:
 
-SOLID Principles help in designing systems that are easy to understand, flexible, and maintainable:
-- **Single Responsibility:** Each class should have one responsibility.
-- **Open-Closed:** Classes should be open for extension but closed for modification.
-- **Liskov Substitution:** Derived classes should be substitutable for their base classes.
-- **Interface Segregation:** Many small, specific interfaces are better than a single general-purpose one.
-- **Dependency Inversion:** High-level modules should not depend on low-level modules directly.
-
-Related experiences:
 - [Object Oriented Programming](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/1.%20Object%20Oriented%20Programming?ref_type=heads)
 - [Software Analysis & Construction, Asteroids](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/8.%20Software%20Analysis%20Construction/Assignment%204%20-%20Architecture%20Refactoring%20%26%20Consistency?ref_type=heads)
 - [Distributed Systems, Clinic Service](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/3.%20services/clinic-service?ref_type=heads)
@@ -481,43 +421,3 @@ Testing is vital for verifying that software meets requirements and performs as 
 - **Acceptance Testing:** Validating the software against user needs:
   - [Systems Development, Wikipage Requirements](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/7.%20Systems%20Development/WikiPages/Requirements?ref_type=heads)
   - [Distributed Systems, Wikipage Requirements](https://gitlab.com/jex-projects/mrjex/-/blob/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/Wiki%20Pages/Home/User-stories.md?ref_type=heads)
-
-
-
-#### Software Development Lifecycles
-
-A Software Development Life Cycle is the process of planning, creating, testing, and deploying software. It includes stages such as:
-
-- **Requirements Gathering and Analysis:** *Understanding what the user needs*
-
-  - [Requirements & User Experience](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/4.%20Requirements%20&%20User%20Experience?ref_type=heads)
-  - [Research Methods in Software Engineering](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-3/2.%20Middle%20Courses/1.%20Research%20methods%20in%20Software%20Engeering?ref_type=heads)
-  - [Software Development Methodologies](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/4.%20Software%20Development%20Methodologies?ref_type=heads)
-
-
-- **Design:** *Architecting and structuring the software solution*
-
-  - [Data Management](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/6.%20Data%20Management?ref_type=heads)
-  - [Software Analysis & Construction](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/8.%20Software%20Analysis%20Construction?ref_type=heads)
-
-- **Implementation:** *Writing and developing the code*
-
-  - [Team Programming & Management](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/3.%20Team%20Programming%20&%20Management?ref_type=heads)
-  - [Computer Programming & Data Management - 2](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-3/1.%20Exchange%20Studies%20Venice/4.%20Computer%20Programming%20&%20Datamanagement%20-%202?ref_type=heads)
-
-- **Testing:** *Ensuring the software meets quality standards and is bug-free*
-
-  - [Software Quality & Testing](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/6.%20Software%20Quality%20&%20Testing?ref_type=heads)
-  - [Object Oriented Programming](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/1.%20Object%20Oriented%20Programming?ref_type=heads)
-
-
-- **Deployment:** *Releasing the software for use*
-
-  - [Distributed Systems](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems?ref_type=heads)
-  - [Cyber Physical Systems of Systems](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/7.%20Cyber%20Physical%20Systems%20and%20Sytems%20of%20Systems?ref_type=heads)
-
-
-- **Maintenance:** *Providing updates and fixing issues as they arise*
-
-  - [Startups and Industrial Software Product Management](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-3/2.%20Middle%20Courses/2.%20Startups%20and%20Industrial%20Software%20Product%20Management?ref_type=heads)
-  - [Data Science & Business Intelligence](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-3/1.%20Exchange%20Studies%20Venice/5.%20Data%20Science%20&%20Business%20Intelligence?ref_type=heads)
