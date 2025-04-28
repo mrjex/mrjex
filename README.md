@@ -1,6 +1,6 @@
 # Joel Mattsson
 
-![joel-mattsson](readme-material/joel-mattsson.gif)
+![joel-mattsson](readme-material/joel-mattsson-optimized.gif)
 
 
 *A Swedish coder with **6+** years of experience* <img align="left" alt="Sweden" width="30px" style="padding-right:10px;" src="readme-material/sweden-icon.svg" />
