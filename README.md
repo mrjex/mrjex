@@ -20,21 +20,13 @@ All coding projects are built from the ground up, from planning and designing al
 - [‎](#)
   - [General Experiences](#general-experiences)
   - [📂 Project Highlights](#-project-highlights)
+  - [🚀 Project Highlights](#-project-highlights-1)
     - [Data Structures](#data-structures)
     - [Programming Languages](#programming-languages)
     - [Amazon Web Services](#amazon-web-services)
     - [Databases](#databases)
-    - [Operating Systems](#operating-systems)
-    - [DevOps](#devops)
-    - [Data Visualization](#data-visualization)
     - [Artificial Intelligence \& Machine Learning](#artificial-intelligence--machine-learning)
-    - [Agile Development](#agile-development)
     - [APIs](#apis)
-    - [Documentation](#documentation)
-    - [Other Programming Concepts Covered](#other-programming-concepts-covered)
-      - [Object Oriented Programming](#object-oriented-programming)
-      - [Software Design Principles](#software-design-principles)
-      - [Software Testing and Quality Assurance](#software-testing-and-quality-assurance)
 
 
 
@@ -108,7 +100,22 @@ In a very broad and brief way, my experience gained throughout the years are sum
 
 ## 📂 Project Highlights
 
-TODO
+
+## 🚀 Project Highlights
+
+- [**Global City Streaming**](https://github.com/username/MyCoolApp)  
+  Brief description here  
+  _Tech stack: Text
+
+- [**Dentanoid**](https://github.com/username/DataWizard)  
+  Brief description here  
+  _Tech stack: Text
+
+
+- [**WioPlay**](https://github.com/username/portfolio)  
+  Brief description here  
+  _Tech stack: Text
+
 
 
 ### Data Structures
@@ -266,62 +273,6 @@ It's worth noting that in the development procedures of most services I used **C
     - [Global City Streaming, Debug API, Database](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/6.%20City%20Streaming%20Project/debug-api/apis/database?ref_type=heads)
 
 
-### Operating Systems
-
-- **Windows, Powershell CLI & Command Prompt:** Used in all projects except for the ones in the categories mentioned below
-
-- **Ubuntu via WSL CLI and Virtual Box:**
-    - [Cyber Physical Systems and Systems of Systems](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/7.%20Cyber%20Physical%20Systems%20and%20Sytems%20of%20Systems?ref_type=heads)
-    - [Project Branno](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/1.%20Project%20Branno?ref_type=heads)
-    - [Relational Analysis & Visualization](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/2.%20Relational-Analysis-And-Visualization?ref_type=heads)
-    - [Real Estate Price Prediction](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/4.%20Real-Estate-Price-Prediction?ref_type=heads)
-    - [Real-Time Data Capture Streaming](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/5.%20Realtime%20Change%20Data%20Capture%20Streaming?ref_type=heads)
-    - [Global City Streaming](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/6.%20City%20Streaming%20Project?ref_type=heads)
-    - [Kubernetes Learning](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/7.%20Kubernetes%20Learning?ref_type=heads)
-    - [AWS BigData Project](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/10.%20AWS%20BigData%20Project?ref_type=heads)
-
-- **Amazon Linux:**
-    - [Real Estate Price Prediction](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/4.%20Real-Estate-Price-Prediction?ref_type=heads) through the *Cloud Shell* to manage *AWS EC2 instances*
-
-
-
-### DevOps
-
-- [Cyber Physical Systems of Systems](https://gitlab.com/jex-projects/mrjex/-/blob/main/projects/1.%20courses/year-2/7.%20Cyber%20Physical%20Systems%20and%20Sytems%20of%20Systems/project/.gitlab-ci.yml?ref_type=heads): *A comprehensive CI/CD that supports different platform architectures, that creates a docker image and runs the container to plot performance metrics generarated from the running application, and compares it to the performance of the previous commit*
-- [Systems Development](https://gitlab.com/jex-projects/mrjex/-/blob/main/projects/1.%20courses/year-1/7.%20Systems%20Development/WioPlay/.gitlab-ci.yml?ref_type=heads): *Runs multiple components with their associated tests using Maven image as part of the CI/CD pipeline*
-- [Distributed Systems](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems?ref_type=heads): *Contains **9 different CI/CD pipelines**, one for each deployed component in the microservices architecture:*
-  - **Microservices:**
-    - [Appointment Service](https://gitlab.com/jex-projects/mrjex/-/blob/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/3.%20services/appointment-service/.gitlab-ci.yml?ref_type=heads)
-    - [Clinic Service](https://gitlab.com/jex-projects/mrjex/-/blob/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/3.%20services/clinic-service/.gitlab-ci.yml?ref_type=heads)
-    - [Monitoring Service](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/3.%20services/monitoring-service?ref_type=heads)
-    - [Notification Service](https://gitlab.com/jex-projects/mrjex/-/blob/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/3.%20services/notification-service/.gitlab-ci.yml?ref_type=heads)
-    - [User Service](https://gitlab.com/jex-projects/mrjex/-/blob/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/3.%20services/user-service/.gitlab-ci.yml?ref_type=heads)
-  - **Clients:**
-    - [Paitent Client](https://gitlab.com/jex-projects/mrjex/-/blob/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/1.%20clients/patient-client/.gitlab-ci.yml?ref_type=heads)
-    - [Dentist Client](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/1.%20clients/dentist-client?ref_type=heads)
-  - **APIs:**
-    - [Patient API](https://gitlab.com/jex-projects/mrjex/-/blob/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/2.%20apis/patient-api/.gitlab-ci.yml?ref_type=heads)
-    - [Dentist API](https://gitlab.com/jex-projects/mrjex/-/blob/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/2.%20apis/dentist-api/.gitlab-ci.yml?ref_type=heads)
-
-- [Sagemaker AWS Prediction](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/8.%20Sagemaker%20AWS%20Prediction?ref_type=heads)
-
-- [Global City Streaming, Automated Executionary Bash Scripts](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/6.%20City%20Streaming%20Project/instructions-executions/executionary?ref_type=heads)
-
-- [Relational Analysis and Visualization, Entry Bash Script](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/2.%20Relational-Analysis-And-Visualization?ref_type=heads)
-
-
-### Data Visualization
-
-- [Computer Programming and Data Management - 2](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-3/1.%20Exchange%20Studies%20Venice/4.%20Computer%20Programming%20&%20Datamanagement%20-%202?ref_type=heads)
-- [Data Science & Business Intelligence](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-3/1.%20Exchange%20Studies%20Venice/5.%20Data%20Science%20&%20Business%20Intelligence?ref_type=heads)
-- [Tableau Visualization](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/9.%20Tableau-Visualization?ref_type=heads)
-- [Global City Streaming](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/6.%20City%20Streaming%20Project?ref_type=heads)
-- [Product Demand Prediction](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/3.%20Product-Demand-Prediction?ref_type=heads)
-- [Cyber Physical Systems of Systems](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/7.%20Cyber%20Physical%20Systems%20and%20Sytems%20of%20Systems?ref_type=heads)
-- [Web Development](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/1.%20Web%20Development?ref_type=heads)
-- [Relational Analysis & Visualization](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/2.%20Relational-Analysis-And-Visualization?ref_type=heads)
-- [Real-time Data Capture Streaming](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/5.%20Realtime%20Change%20Data%20Capture%20Streaming?ref_type=heads)
-
 
 ### Artificial Intelligence & Machine Learning
 
@@ -334,17 +285,6 @@ It's worth noting that in the development procedures of most services I used **C
 - [Product Demand Prediction](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/3.%20Product-Demand-Prediction?ref_type=heads)
 - [AWS Bedrock Generative AI](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/11.%20AWS%20Bedrock%20Generative%20AI?ref_type=heads)
 - [Relational Analysis & Visualization](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/2.%20Relational-Analysis-And-Visualization?ref_type=heads)
-
-
-### Agile Development
-
-- [Team Programming & Management](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/3.%20Team%20Programming%20&%20Management?ref_type=heads)
-- [Data Structures & Algorithms](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/5.%20Data%20Structures%20&%20Algorithms?ref_type=heads)
-- [Systems Development](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/7.%20Systems%20Development?ref_type=heads)
-- [Software Analysis & Construction](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/8.%20Software%20Analysis%20Construction?ref_type=heads)
-- [Software Development Methodologies](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/4.%20Software%20Development%20Methodologies?ref_type=heads)
-- [Web Development](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/1.%20Web%20Development?ref_type=heads)
-- [Distributed Systems](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems?ref_type=heads)
 
 
 
@@ -360,64 +300,3 @@ It's worth noting that in the development procedures of most services I used **C
 - [Distributed Systems, Dentist API](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/2.%20apis/dentist-api?ref_type=heads)
 - [Systems Development](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/7.%20Systems%20Development?ref_type=heads)
 [Real Estate Price Prediction](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/4.%20Real-Estate-Price-Prediction?ref_type=heads)
-
-
-### Documentation
-
-- [Global City Streaming](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/6.%20City%20Streaming%20Project?ref_type=heads)
-- [Systems Development](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/7.%20Systems%20Development?ref_type=heads)
-- [Distributed Systems](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems?ref_type=heads)
-- [Data Science & Business Intelligence](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-3/1.%20Exchange%20Studies%20Venice/5.%20Data%20Science%20&%20Business%20Intelligence?ref_type=heads)
-- [Project Branno](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/1.%20Project%20Branno?ref_type=heads)
-- [Tableau Visualization](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/9.%20Tableau-Visualization?ref_type=heads)
-- [Cyber Physical Systems of Systems](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/7.%20Cyber%20Physical%20Systems%20and%20Sytems%20of%20Systems?ref_type=heads)
-
-
-
-### Other Programming Concepts Covered
-
-These general software engineering concepts provide a comprehensive foundation for building, maintaining, and delivering high-quality software. They encompass a range of practices from planning, designing, and coding to testing, deploying, and maintaining applications effectively. Mastering these concepts is essential for producing reliable, scalable, and user-friendly software solutions
-
-
-#### Object Oriented Programming
-
-OOP is a paradigm that organizes code around objects, which are instances of classes. My related experiences include:
-
-- [Object Oriented Programming](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/1.%20Object%20Oriented%20Programming?ref_type=heads)
-- [Software Analysis & Construction, Asteroids](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/8.%20Software%20Analysis%20Construction/Assignment%204%20-%20Architecture%20Refactoring%20%26%20Consistency?ref_type=heads)
-- [Distributed Systems, Clinic Service](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/3.%20services/clinic-service?ref_type=heads)
-
-
-#### Software Design Principles
-
-Software Design is about planning the structure of the software solution before actual coding begins. My related experiences include:
-
-- [Software Analysis & Construction](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/8.%20Software%20Analysis%20Construction?ref_type=heads)
-- [Systems Development](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/7.%20Systems%20Development?ref_type=heads)
-- [Development of Embedded & Real-Time Systems](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/5.%20Development%20of%20Embedded%20&%20Real-Time%20Systems?ref_type=heads)
-- [Cyber Physical Systems of Systems](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/7.%20Cyber%20Physical%20Systems%20and%20Sytems%20of%20Systems?ref_type=heads)
-- [Foundations of Artificial Intelligence](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-3/1.%20Exchange%20Studies%20Venice/1.%20Foundations%20of%20Artificial%20Intelligence?ref_type=heads)
-
-
-
-
-#### Software Testing and Quality Assurance
-
-Testing is vital for verifying that software meets requirements and performs as expected. It includes:
-
-- **Unit Testing:** Testing individual components or functions:
-  - [Distributed Systems, Clinic Service](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/3.%20services/clinic-service?ref_type=heads)
-  - [Software Quality & Testing, Assignment 2](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/6.%20Software%20Quality%20&%20Testing/Assignment%202%20-%20Unit%20and%20Structural%20Testing?ref_type=heads)
-
-- **Integration Testing:** Ensuring different modules work together:
-  - [Distributed Systems, Patient API](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/2.%20apis/patient-api?ref_type=heads)
-  - [Distributed Systems, Dentist API](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/2.%20apis/dentist-api?ref_type=heads)
-  - [Software Quality & Testing, Assignment 1](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/6.%20Software%20Quality%20&%20Testing/Assignment%201%20-%20Quality%20and%20System%20Testing?ref_type=heads)
-
-- **System Testing:** Testing the complete system as a whole:
-  - [Cyber Physical Systems of Systems](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/7.%20Cyber%20Physical%20Systems%20and%20Sytems%20of%20Systems?ref_type=heads)
-  - [Software Quality & Testing, Assignment 3](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/6.%20Software%20Quality%20&%20Testing/Assignment%203%20-%20Mutation%20Testing%20and%20Finite-State%20Verification?ref_type=heads)
-
-- **Acceptance Testing:** Validating the software against user needs:
-  - [Systems Development, Wikipage Requirements](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-1/7.%20Systems%20Development/WikiPages/Requirements?ref_type=heads)
-  - [Distributed Systems, Wikipage Requirements](https://gitlab.com/jex-projects/mrjex/-/blob/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/Wiki%20Pages/Home/User-stories.md?ref_type=heads)
