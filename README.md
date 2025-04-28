@@ -6,7 +6,7 @@
 *A Swedish coder with **6+** years of experience* <img align="left" alt="Sweden" width="30px" style="padding-right:10px;" src="readme-material/sweden-icon.svg" />
 
 
-<img align="left" alt="Chalmers-logo" width="100px" style="padding-right:10px;" src="readme-material/chalmers-logo.png" />
+<img align="left" alt="Chalmers-logo" width="70px" style="padding-right:10px;" src="readme-material/chalmers-logo.png" />
 
 
 All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems at large scales. I'm a full-stack developer that specializes in Software Engineering & Management and has been coding since 2019.
@@ -24,7 +24,7 @@ All coding projects are built from the ground up, from planning and designing al
     - [Data Science \& ML](#data-science--ml)
     - [Big Data \& Streaming](#big-data--streaming)
     - [Design \& Media](#design--media)
-- [‎](#)
+  - [‎Commercial Project Demos](#commercial-project-demos)
   - [🚀 Project Highlights](#-project-highlights)
   - [📚 More Detailed Portfolios](#-more-detailed-portfolios)
 
@@ -109,9 +109,7 @@ All coding projects are built from the ground up, from planning and designing al
 <br clear="all"/>
 
 
-
-
-# ‎ 
+## ‎Commercial Project Demos
 
 <!-- BEGIN YOUTUBE_CARDS -->
 [![Bookster Video](https://ytcards.demolab.com/?id=QJtuR23a90U&title=Bookster+Video&lang=en&timestamp=1697547185&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=121 "Bookster Video")](https://www.youtube.com/watch?v=QJtuR23a90U) [![WioPlay Video](https://ytcards.demolab.com/?id=39YLKTfMxs0&title=WioPlay+Video&lang=en&timestamp=1697547185&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=121 "WioPlay Video")](https://www.youtube.com/watch?v=39YLKTfMxs0) [![Dentanoid Video](https://ytcards.demolab.com/?id=aSLGyp8Asb0&title=Dentanoid+Video&lang=en&timestamp=1697547185&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=121 "Dentanoid Video")](https://www.youtube.com/watch?v=aSLGyp8Asb0) [![Project Branno](https://ytcards.demolab.com/?id=HuOq2pDhM6Y&title=Project+Branno&lang=en&timestamp=1697547185&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=121 "Project Branno")](https://www.youtube.com/watch?v=HuOq2pDhM6Y)
