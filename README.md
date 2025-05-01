@@ -1,3 +1,6 @@
+[![Global City Streaming](https://github-readme-stats.vercel.app/api/pin/?username=mrjex&repo=Global-City-Streaming)](https://github.com/mrjex/Global-City-Streamin)
+
+
 # Joel Mattsson
 
 ![joel-mattsson](readme-material/joel-mattsson-optimized.gif)
