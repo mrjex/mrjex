@@ -11,9 +11,10 @@
 
 [![Global City Streaming](https://github-readme-stats.vercel.app/api/pin/?username=mrjex&repo=Global-City-Streaming)](https://github.com/mrjex/Global-City-Streaming)
 [![US Political and Societal Data Visualization](https://github-readme-stats.vercel.app/api/pin/?username=mrjex&repo=US-Political-and-Societal-Data-Visualization)](https://github.com/mrjex/US-Political-and-Societal-Data-Visualization)
-[![Bookster](https://github-readme-stats.vercel.app/api/pin/?username=mrjex&repo=Global-City-Streaming)](https://github.com/mrjex/Bookster)
+[![Bookster](https://github-readme-stats.vercel.app/api/pin/?username=mrjex&repo=Bookster)](https://github.com/mrjex/Bookster)
 [![Machine Learning Clustering System](https://github-readme-stats.vercel.app/api/pin/?username=mrjex&repo=Machine-Learning-Clustering-System)](https://github.com/mrjex/Machine-Learning-Clustering-System)
 [![WioPlay](https://github-readme-stats.vercel.app/api/pin/?username=Indomet&repo=WioPlay)](https://github.com/Indomet/WioPlay)
+[![Clinic Service](https://github-readme-stats.vercel.app/api/pin/?username=Dentanoid&repo=Clinic-Service)](https://github.com/Dentanoid/Clinic-Service)
 
 
 ## Table of Contents
