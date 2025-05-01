@@ -1,6 +1,3 @@
-[![Global City Streaming](https://github-readme-stats.vercel.app/api/pin/?username=mrjex&repo=Global-City-Streaming)](https://github.com/mrjex/Global-City-Streamin)
-
-
 # Joel Mattsson
 
 ![joel-mattsson](readme-material/joel-mattsson-optimized.gif)
@@ -9,6 +6,14 @@
 <br clear="all"/>
 
 > I enjoy turning ideas into real-world solutions, taking projects from initial concept to finished product through careful planning and creative problem-solving. As a full-stack developer focused on Software Engineering & Management, I’ve been passionate about coding and building meaningful things since 2019.
+
+
+
+[![Global City Streaming](https://github-readme-stats.vercel.app/api/pin/?username=mrjex&repo=Global-City-Streaming)](https://github.com/mrjex/Global-City-Streaming)
+[![US Political and Societal Data Visualization](https://github-readme-stats.vercel.app/api/pin/?username=mrjex&repo=US-Political-and-Societal-Data-Visualization)](https://github.com/mrjex/US-Political-and-Societal-Data-Visualization)
+[![Bookster](https://github-readme-stats.vercel.app/api/pin/?username=mrjex&repo=Global-City-Streaming)](https://github.com/mrjex/Bookster)
+[![Machine Learning Clustering System](https://github-readme-stats.vercel.app/api/pin/?username=mrjex&repo=Machine-Learning-Clustering-System)](https://github.com/mrjex/Machine-Learning-Clustering-System)
+[![WioPlay](https://github-readme-stats.vercel.app/api/pin/?username=Indomet&repo=WioPlay)](https://github.com/Indomet/WioPlay)
 
 
 ## Table of Contents
