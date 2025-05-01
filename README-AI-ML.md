@@ -1,26 +1,10 @@
 # Artificial Intelligence & Machine Learning
 
+- [ML Clustering System](https://github.com/mrjex/Machine-Learning-Clustering-System)
 
-## Project Highlights
+- [CNN Image Classification](https://github.com/mrjex/Neural-Network-Image-Classification)
 
-
-- [**ML Clustering System**](https://github.com/mrjex/Machine-Learning-Clustering-System)
-  Brief description
-  _Tech stack: Text
-
-
-- [**CNN Image Classification**](https://github.com/mrjex/Neural-Network-Image-Classification)
-  Brief description
-  _Tech stack: Text
-
-
-- [**AI Classifiers**](https://github.com/mrjex/Artificial-Intelligence-Classifiers)
-  Brief description
-  _Tech stack: Text
-
-
-
-## Other Projects
+- [AI Classifiers](https://github.com/mrjex/Artificial-Intelligence-Classifiers)
 
 - [AI Clusters](https://github.com/mrjex/Artificial-Intelligence-Clusters)
 
