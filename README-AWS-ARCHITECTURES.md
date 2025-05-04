@@ -2,8 +2,15 @@
 
 
 - Table of Contents
-
-
+  - [Aktiv Framtid](#aktiv-framtid)
+    - [Base Architecture](#base-architecture)
+    - [Architecture V1](#architecture-v1)
+    - [Architecture V2](#architecture-v2)
+  - [Individual Projects](#individual-projects)
+    - [AWS Sagemaker System](#aws-sagemaker-system)
+    - [AWS Big Data System](#aws-big-data-system)
+    - [Generative AI Bedrock](#generative-ai-bedrock)
+    - [Real-Estate Price Prediction](#real-estate-price-prediction)
 
 
 ## Aktiv Framtid
@@ -50,28 +57,30 @@ Explain how the problem with Application Load Balancer, Route 53, CloudMap and s
 
 ## Individual Projects
 
-Text
+### AWS Sagemaker System
+
+![sagemaker-architecture](readme-material/aws-architectures/sagemaker-architecture.png)
 
 
+**Repository:** https://github.com/mrjex/AWS-Sagemaker-System
 
 
-### Sagemaker
+### AWS Big Data System
 
-Text
+![bigdata-architecture](readme-material/aws-architectures/bigdata-architecture.png)
 
+**Repository:** https://github.com/mrjex/AWS-BigData-System
 
 
 ### Generative AI Bedrock
 
-Text
+![generative-ai-architecture](readme-material/aws-architectures/generative-ai-architecture.PNG)
+
+**Repository:** https://github.com/mrjex/AWS-Generative-AI-Endpoint/tree/main
 
 
 ### Real-Estate Price Prediction
 
-Text
+![real-estate-price-prediction](readme-material/aws-architectures/real-estate-price-prediction-architecture.png)
 
-
-
-### Big Data Systems
-
-Text
+**Repository:** https://github.com/mrjex/Real-Estate-Price-Prediction
