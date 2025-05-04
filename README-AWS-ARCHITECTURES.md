@@ -33,8 +33,11 @@ Text
 
 Text
 
+- Note that **Swish** and **BankID** are two famous payment methods in Sweden
 
-Picture here
+
+
+![aktiv-framtid-architecture-v2](readme-material/aws-architectures/3-aktiv-framtid-architecture.PNG)
 
 
 
