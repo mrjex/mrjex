@@ -83,4 +83,4 @@
 
 - **Typescript**
 
-- [Global City Streaming, Frontend](https://github.com/mrjex/Frontend-Global-City-Streaming/tree/8cedc47a99ca576d7190b848502ef6f242776aa8)
+    - [Global City Streaming, Frontend](https://github.com/mrjex/Frontend-Global-City-Streaming/tree/8cedc47a99ca576d7190b848502ef6f242776aa8)
