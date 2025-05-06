@@ -21,54 +21,59 @@
 
 - **C#**
 
-    - **20+ problems solved** in [C-Sharp Programming Repository](https://gitlab.com/jex-projects/mrjex/-/tree/main/problem-solving/1.%20C-Sharp-Programming?ref_type=heads)
-    - [Breadth First Search](https://gitlab.com/jex-projects/mrjex/-/tree/main/problem-solving/2.%20AlgoExpert/Executionary%20Code/Graphs/BreadthFirstSearch?ref_type=heads)
-    - [Depth First Search](https://gitlab.com/jex-projects/mrjex/-/tree/main/problem-solving/2.%20AlgoExpert/Executionary%20Code/Graphs/DepthFirstSearch?ref_type=heads)
-    - [SingleCycleCheck](https://gitlab.com/jex-projects/mrjex/-/tree/main/problem-solving/2.%20AlgoExpert/Executionary%20Code/Graphs/SingleCycleCheck?ref_type=heads)
-  
+    - [Swedish Student Programming Olympics](https://github.com/mrjex/Student-Programming-Olympics)
+    - [Hackerrank](https://github.com/mrjex/Hacker-Rank)
+    - [Breadth First Search](https://github.com/mrjex/AlgoExpert/tree/main/Executionary%20Code/Graphs/BreadthFirstSearch)
+    - [Depth First Search](https://github.com/mrjex/AlgoExpert/tree/main/Executionary%20Code/Graphs/DepthFirstSearch)
+    - [SingleCycleCheck](https://github.com/mrjex/AlgoExpert/tree/main/Executionary%20Code/Graphs/SingleCycleCheck)
+
+
 - **Java**
 
     - [Object Oriented Programming](https://github.com/mrjex/Object-Oriented-Programming)
     - [Team Programming & Management](https://github.com/mrjex/Snake)
     - [Systems Development, AndroidApp & NoteParser](https://github.com/Indomet/WioPlay/tree/main)
     - [Global City Streaming, Flink-Processor](https://github.com/mrjex/Flink-Processor-Global-City-Streaming/tree/5d6e8f33ae8f1c18fb1f97d117e084f37dbdfead)
-    - [Distributed Systems, Clinic Service](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/3.%20services/clinic-service?ref_type=heads)
+    - [Distributed Systems, Clinic Service](https://github.com/Dentanoid/Clinic-Service)
     - [Software Design Principles](https://github.com/mrjex/Software-Design-Patterns)
+    - [Fundamentals of Software Architecture, Microservices](https://github.com/mrjex/Software-Architectural-Styles)
 
 - **Javascript**
 
     - [Web Development](https://github.com/mrjex/Bookster)
-    - [Distributed Systems: Dentist Client](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/1.%20clients/dentist-client?ref_type=heads)
-    - [Distributed Systems: Patient Client](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/1.%20clients/patient-client?ref_type=heads)
-    - [Distributed Systems: Dentist API](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/2.%20apis/dentist-api?ref_type=heads)
-    - [Distributed Systems: Patient API](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/2.%20apis/patient-api?ref_type=heads)
-    - [Distributed Systems: Notification Service](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/3.%20services/notification-service?ref_type=heads)
+    - [Distributed Systems: Dentist Client](https://github.com/Dentanoid/Dentist-Client)
+    - [Distributed Systems: Patient Client](https://github.com/Dentanoid/Patient-Client)
+    - [Distributed Systems: Dentist API](https://github.com/Dentanoid/Dentist-API)
+    - [Distributed Systems: Patient API](https://github.com/Dentanoid/Patient-API)
+    - [Distributed Systems: Notification Service](https://github.com/Dentanoid/Notification-Service)
+    - [Fundamentals of Software Architecture, Web Services](https://github.com/mrjex/Software-Architectural-Styles)
 
 - **Go**
 
-    - [Distributed Systems: Appointment Service](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/3.%20services/appointment-service?ref_type=heads)
-    - [Distributed Systems: User Service](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/3.%20services/user-service?ref_type=heads)
-    - [Distributed Systems: Monitor Service](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/3.%20Distributed%20Systems/dentanoid-project/3.%20services/monitoring-service?ref_type=heads)
+    - [Distributed Systems: Appointment Service](https://github.com/Dentanoid/Appointment-Service-Go)
+    - [Distributed Systems: User Service](https://github.com/Dentanoid/User-Service)
+    - [Distributed Systems: Monitor Service](https://github.com/Dentanoid/Monitoring-Service)
 
 - **C**
 
-    - [Development of Embedded & Real-Time Systems, Tinkerad Assignments](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/5.%20Development%20of%20Embedded%20%26%20Real-Time%20Systems?ref_type=heads)
+    - [Development of Embedded & Real-Time Systems](https://github.com/mrjex/Embedded-and-Real-Time-Systems)
+    - [C Programming](https://github.com/mrjex/C-Programming)
 
 - **C++**
 
     - [Systems Development, Wio-Terminal Component](https://github.com/Indomet/WioPlay/tree/main)
-    - [Fundamentals of Software Architecture, Assignment 4: Pipe-And-Filter](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/2.%20Fundamentals%20of%20Software%20Architecture/Assignment%204%20-%20Architectural%20Styles%20and%20their%20Applications/Code-Submission/pipe-and-filter?ref_type=heads)
-    - [Development of Embedded & Real-Time Systems, Tinkerad Assignments](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/5.%20Development%20of%20Embedded%20%26%20Real-Time%20Systems?ref_type=heads)
-    - [Cyber Physical Systems and Sytems of Systems](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/7.%20Cyber%20Physical%20Systems%20and%20Sytems%20of%20Systems/project/src?ref_type=heads)
+    - [Fundamentals of Software Architecture, Pipe-And-Filter](https://github.com/mrjex/Software-Architectural-Styles)
+    - [Development of Embedded & Real-Time Systems](https://github.com/mrjex/Embedded-and-Real-Time-Systems)
+    - [Cyber Physical Systems and Sytems of Systems](https://github.com/mrjex/Cyber-Physical-Systems-and-Sytems-of-Systems)
 
 - **Bash**
 
-    - [Cyber Physical Systems and Sytems of Systems](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-2/7.%20Cyber%20Physical%20Systems%20and%20Sytems%20of%20Systems/project/src?ref_type=heads)
+    - [Cyber Physical Systems and Sytems of Systems](https://github.com/mrjex/Cyber-Physical-Systems-and-Sytems-of-Systems)
     - [Project Branno](https://github.com/mrjex/Project-Branno)
     - [Relational Analysis & Visualization](https://github.com/mrjex/Relational-Analysis-and-Visualization)
     - [Global City Streaming](https://github.com/mrjex/Global-City-Streaming)
-    - [Kubernetes Learning](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/7.%20Kubernetes%20Learning?ref_type=heads)
-    - [Sagemaker AWS Prediction](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/8.%20Sagemaker%20AWS%20Prediction?ref_type=heads)
+    - [Kubernetes Experiments](https://github.com/mrjex/K8s-Experiments)
+    - [Sagemaker AWS System](https://github.com/mrjex/AWS-Sagemaker-System)
     - [AWS BigData Project](https://github.com/mrjex/AWS-BigData-System)
     - [AWS Bedrock Generative AI Endpoint](https://github.com/mrjex/AWS-Generative-AI-Endpoint)
     - [AlgoExpert, Automatied Tests](https://github.com/mrjex/AlgoExpert)
