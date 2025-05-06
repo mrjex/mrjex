@@ -1,7 +1,6 @@
 # AWS Architectures
 
-
-- Table of Contents
+- [AWS Architectures](#aws-architectures)
   - [Aktiv Framtid (Startup)](#aktiv-framtid-startup)
     - [Base Architecture](#base-architecture)
     - [Architecture V1](#architecture-v1)

@@ -31,4 +31,5 @@
 
 - [Artificial Intelligence & Machine Learning](./README-AI-ML.md)
 - [Amazon Web Services Projects](./README-AWS.md)
+- [Amazon Web Services Architectures](./README-AWS-ARCHITECTURES.md)
 - [Languages & Tools](./README-TOOLS.md)
