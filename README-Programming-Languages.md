@@ -17,6 +17,10 @@
     - [AWS Bedrock Generative AI Endpoint](https://github.com/mrjex/AWS-Generative-AI-Endpoint)
     - [Artificial Intelligence Clusters](https://github.com/mrjex/Artificial-Intelligence-Clusters)
     - [Neural Network Image Classification](https://github.com/mrjex/Neural-Network-Image-Classification)
+    - [Global City Streaming, City API](https://github.com/mrjex/City-API-Global-City-Streaming)
+    - [Global City Streaming, Kafka Producer](https://github.com/mrjex/Kafka-Producer-Global-City-Streaming)
+    - [Global City Streaming, Database Manager](https://github.com/mrjex/Database-Manager-Global-City-Streaming)
+    - [Global City Streaming, Redis](https://github.com/mrjex/Redis-Global-City-Streaming)
 
 
 - **C#**
