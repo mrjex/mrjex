@@ -4,7 +4,7 @@
 > I enjoy turning ideas into real-world solutions, taking projects from initial concept to finished product through careful planning and creative problem-solving. As a full-stack developer focused on Software Engineering & Management, I’ve been passionate about coding and building meaningful things since 2019.
 
 
-## 🚀 Project Highlights
+## Project Highlights
 
 - [**Global City Streaming**](https://github.com/mrjex/Global-City-Streaming)  
   A web-based platform for real-time streaming and visualization of global city data. Users can explore live feeds, analytics, and interactive maps from cities around the world, enabling insights into urban trends and events. _Tech stack:_ Kafka, Flink, React, Nextjs, PostgreSQL, FastAPI
@@ -27,7 +27,7 @@
 
 
 
-## 📚 More Detailed Portfolios
+## More Detailed Portfolios
 
 - [Artificial Intelligence & Machine Learning](./README-AI-ML.md)
 - [Amazon Web Services Projects](./README-AWS.md)
