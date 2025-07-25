@@ -1,20 +1,5 @@
 ![joel-mattsson](readme-material/joel-mattsson-optimized.gif)
 
-## Project Highlights
-
-- [**Global City Streaming**](https://github.com/mrjex/Global-City-Streaming)  
-  A web-based platform for real-time streaming and visualization of global city data. Users can explore live feeds, analytics, and interactive maps from cities around the world, enabling insights into urban trends and events. _Tech stack:_ Kafka, Flink, React, Nextjs, PostgreSQL, FastAPI
-
-
-- [**Dentanoid**](https://github.com/Dentanoid) 
-  A modern dental appointment management platform designed for clinics and patients. The system streamlines the process of booking, managing, and tracking dental appointments through a microservices architecture. _Tech stack:_ Vuejs, Go, Java, Docker, Javascript, MongoDB
-
-
-- [**WioPlay**](https://github.com/Indomet/WioPlay)  
-  WioPlay is an interactive fitness and music system that motivates users to burn calories by combining a Wio Terminal device, an Android app, and a NoteParser server. The system streams music, tracks workouts, and rewards users with new songs as they exercise, using real-time motion detection and MQTT-based communication between components. _Tech stack:_ Android SDK, Gradle, C++, Arduino, Maven
-
-
-
 ## ‎Commercial Project Demos
 
 <!-- BEGIN YOUTUBE_CARDS -->
@@ -25,8 +10,7 @@
 
 ## More Detailed Portfolios
 
-- [Artificial Intelligence & Machine Learning](./README-AI-ML.md)
-- [Amazon Web Services Projects](./README-AWS.md)
-- [Amazon Web Services Architectures](./README-AWS-ARCHITECTURES.md)
+- [AI & ML](./README-AI-ML.md)
+- [AWS Architectures](./README-AWS-ARCHITECTURES.md)
 - [Languages & Tools](./README-TOOLS.md)
 - [Programming Languages](./README-Programming-Languages.md)
