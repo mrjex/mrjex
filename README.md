@@ -1,9 +1,5 @@
 ![joel-mattsson](readme-material/joel-mattsson-optimized.gif)
 
-
-> I enjoy turning ideas into real-world solutions, taking projects from initial concept to finished product through careful planning and creative problem-solving. As a full-stack developer focused on Software Engineering & Management, I’ve been passionate about coding and building meaningful things since 2019.
-
-
 ## Project Highlights
 
 - [**Global City Streaming**](https://github.com/mrjex/Global-City-Streaming)  
